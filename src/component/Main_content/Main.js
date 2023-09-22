@@ -7,7 +7,7 @@ const Main = () => {
     <div className="centered-container">
       <div className="content">
         <h1 className="up-down-animation">Centered Content</h1>
-        <p>This content is centered horizontally and vertically.</p>
+        <p  className="up-down-animation">This content is centered horizontally and vertically.</p>
       </div>
     </div>
   );
