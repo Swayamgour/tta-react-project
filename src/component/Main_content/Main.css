@@ -16,10 +16,11 @@
   }
 }
 body{
-  background: linear-gradient(to right , #949494 , rgb(203, 94, 94));
+ 
 }
 
 .centered-container {
+  background: linear-gradient(to right , #949494 , rgb(203, 94, 94));
   display: flex;
   justify-content: center;
   align-items: center;
